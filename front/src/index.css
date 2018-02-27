@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:not([href]) {
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.error,
+.errors {
+  font-size: 0.9em;
+  color: red;
+}

@@ -1,0 +1,9 @@
+.meta-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-action {
+  text-align: right;
+}

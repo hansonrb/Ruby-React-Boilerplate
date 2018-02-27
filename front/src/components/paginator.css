@@ -1,0 +1,27 @@
+.paginator {
+  display: block;
+  text-align: center;
+  padding-left: 0;
+  list-style: none;
+}
+
+.paginator li {
+  display: inline-block;
+}
+
+button.flatbutton-simple {
+  min-width: 36px !important;
+  padding: 0 10px !important;
+}
+
+.paginator li a {
+  display: block;
+}
+
+.paginator li a.active {
+  background-color: rgb(0, 188, 212);
+}
+
+.paginator li a.active button.flatbutton-simple {
+  color: white !important;
+}

@@ -1,0 +1,15 @@
+#page-dashboard {
+
+}
+
+.requirements {
+  border: 1px solid #dddddd;
+  padding: 15px;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.requirements li {
+  line-height: 1.6;
+}

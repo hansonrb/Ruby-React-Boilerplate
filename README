@@ -1,0 +1,25 @@
+
+Specifications:
+
+- Backend: Ruby On Rails
+
+Ruby 2.4, Rails 5.1
+ActiveRecord with Sqlite
+Devise and Devise-Auth-Token for Authentication
+Pundit for Authorization
+Kaminari for Pagination
+Faker for Data Seeder
+Serializer for formatted data
+
+
+- front end:
+
+ReactJS 15
+Redux, Redux-Thunk, Redux-Form
+Redux-Await for tracking status of async actions
+Create-React-App for bootstrapping
+Material UI for layouts and components
+Recompose for enhancing functional components
+Lodash for array, object operations
+Axios for API Interaction
+AirBnb ESLint for beautiful coding
